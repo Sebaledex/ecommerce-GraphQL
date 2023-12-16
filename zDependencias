@@ -1,0 +1,1 @@
+npm install @apollo/gateway @apollo/subgraph @nestjs/apollo @nestjs/graphql apollo-server-express graphql
